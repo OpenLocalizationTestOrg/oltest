@@ -1,0 +1,17 @@
+﻿{
+  "filters": [
+    {
+      "files": [ "e2e/*.md", "e2e/*.yml" ],
+      "priorities": [
+        {
+          "priority": "ht",
+          "locales": [ "zh-cn", "de-de" ],
+          "type": "HT"
+        }
+      ]
+    }
+  ],
+  "includeDependencies": true,
+  "autoPush": true,
+  "xliffVersion": "1.2"
+}
