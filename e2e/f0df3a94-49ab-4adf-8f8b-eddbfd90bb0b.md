@@ -1,6 +1,6 @@
 <properties
-ms.topic="hero-topic"
+ms.topic="hero-topic1"
 ms.test1="hero-topic"
 ms.test2="test"/>
 
-## OpenLocalization Workflow Test MarkDown a9e706f7-c52e-4cb0-837c-548d4ff353f7 thanks!
+## OpenLocalization Workflow Test MarkDown 83388b14-7b7e-43b3-aa05-b8ae261c85fd thanks!
