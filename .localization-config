@@ -5,7 +5,8 @@
       "priorities": [
         {
           "priority": "ht",
-          "locales": [ "zh-cn", "de-de"]
+          "locales": [ "zh-cn", "de-de" ],
+          "type": "HT"
         }
       ]
     }
